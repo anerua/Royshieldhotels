@@ -780,6 +780,16 @@ ul, ol {
 .hp-room-items .hp-room-item .hr-text .primary-btn:after {
 	background: #ffffff;
 }
+.hp-room-items .hp-room-item-view-all {
+	position: absolute;
+	left: 45px;
+	right: 25px;
+	bottom: 2.5rem;
+}
+.hp-room-items .hp-room-item-view-all .hr-text-view-all {
+	color: #dfa974;
+	font-weight: 700;
+}
 /*---------------------
   Testimonial Slider
 -----------------------*/
